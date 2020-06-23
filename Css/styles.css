@@ -1,0 +1,174 @@
+
+body{
+  background-color: #f0f0f0;
+margin:0;
+
+}
+h1{
+    font-family: 'Amiri', serif;
+  font-size: 50px;
+  margin-top: 0;
+text-align: center;
+
+}
+table{
+  position: relative;
+  top:100px;
+  right: 30%;
+  padding: 2px;
+}
+
+td {
+padding: 5px;
+    font-family: 'Amiri', serif;
+  font-size: 50px;
+  margin-top: 0;
+  text-align: center;
+}
+ul{
+  list-style-position:inside;
+  font-family: 'Amiri', serif;
+  font-size: 25px;
+text-align: right;
+    line-height: 2;
+}
+ol{
+  list-style-position:inside;
+font-family: 'Tajawal', sans-serif;
+  font-size: 25px;
+  display:inline-block;
+  line-height: 2;
+
+}
+
+.Specialrows{
+  text-align:center;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.Pic2{
+  margin-top: 50%;
+}
+
+.Intro {
+  height: 110px;
+padding: 7% 7%;
+text-align: center;
+background-color: #e0dede;
+}
+
+.Intro-link{
+    font-family: 'Tajawal', sans-serif;
+  color: black;
+  text-decoration: none;
+margin-left: 20px;
+margin-right: 20px;
+  font-size: 40px;
+
+}
+.Intro-link:hover{
+  text-decoration: none;
+  color:white;
+}
+
+
+.FB{
+  position: absolute;
+  left: 14%;
+  top:11px;
+}
+
+
+
+.hr1{
+  border: dotted #000 6px;
+  border-bottom: none;
+  width: 6%;
+}
+
+
+.Footer{
+background-color: #565d47;
+
+}
+
+.copyright{
+  font-family: 'Amiri', serif;
+  font-size: 25px;
+  margin: 0;
+  text-align: center;
+}
+
+.final{
+  font-family: 'Amiri', serif;
+color: white;
+text-decoration: none;
+margin: 0 0;
+font-size: 30px;
+}
+
+.final:hover{
+  text-decoration: none;
+  color:black;
+}
+
+.contact{
+  height:500px;
+}
+
+
+.Images{
+  width: 50%;
+}
+
+.Titlerow{
+  text-align: center;
+  font-family: 'Amiri', serif;
+  font-size: 35px;
+  margin-top: 20px;
+}
+
+.moukabalat{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width:90%;
+}
+
+.moukabalatSpecial{
+
+  width:90%;
+  transform:rotate(-1deg);
+}
+
+.moukabalatSpecial2{
+  width:50%;
+
+}
+
+.moukabalatSpecial3{
+
+    transform:rotate(1deg);
+  width:50%;
+}
+
+.moukabalatSpecial4{
+  width:80%;
+}
+
+
+.dirasat{
+  width:55%;
+  margin-top: 20px;
+}
+
+.dirasatSpecial{
+  width:60%;
+  transform:rotate(0.8deg);
+}
+
+.dirasatSpecial2{
+  margin-top: 20px;
+  width:60%;
+  transform:rotate(-1.5deg);
+}
